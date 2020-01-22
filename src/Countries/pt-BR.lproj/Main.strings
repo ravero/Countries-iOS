@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "Capital"; ObjectID = "CEt-aX-DDD"; */
+"CEt-aX-DDD.text" = "Capital";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "F4E-h0-TTK"; */
+"F4E-h0-TTK.text" = "País";
+
+/* Class = "UILabel"; text = "Capital: [Placeholder]"; ObjectID = "O8R-RC-0Ij"; */
+"O8R-RC-0Ij.text" = "Capital: [Placeholder]";
+
+/* Class = "UILabel"; text = "Population"; ObjectID = "SXJ-1M-ZPV"; */
+"SXJ-1M-ZPV.text" = "População";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "Ucy-2C-irN"; */
+"Ucy-2C-irN.text" = "Detalhe";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "Vm9-Z7-cOB"; */
+"Vm9-Z7-cOB.text" = "Código";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "XVL-ye-5bl"; */
+"XVL-ye-5bl.text" = "Detalhe";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "gjn-E2-6pF"; */
+"gjn-E2-6pF.text" = "Detalhe";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "hFb-3e-WEh"; */
+"hFb-3e-WEh.text" = "Detalhe";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "n95-jL-aHO"; */
+"n95-jL-aHO.text" = "Detalhe";
+
+/* Class = "UINavigationItem"; title = "Countries"; ObjectID = "ne8-WF-eAP"; */
+"ne8-WF-eAP.title" = "Países";
+
+/* Class = "UILabel"; text = "Continent"; ObjectID = "o16-Hl-FGA"; */
+"o16-Hl-FGA.text" = "Continente";
+
+/* Class = "UILabel"; text = "Area (km²)"; ObjectID = "o9a-fx-J8m"; */
+"o9a-fx-J8m.text" = "Área (km²)";

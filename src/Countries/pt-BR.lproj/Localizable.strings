@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Countries
+
+  Created by Hakan Satya on 03/12/16.
+  Copyright © 2016 Caeno. All rights reserved.
+*/
+
+/* Loading Countries Title */
+"Loading Countries" = "Carregando Países...";
